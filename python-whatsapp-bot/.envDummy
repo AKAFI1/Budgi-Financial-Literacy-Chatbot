@@ -1,0 +1,15 @@
+
+#This file contains sensitive information, therefore a template will be shown of what the developer implements. 
+
+# ACCESS_TOKEN=
+
+# APP_ID=
+# APP_SECRET=
+# RECIPIENT_WAID= # Your WhatsApp number with country code (e.g., +447482310745)
+# VERSION=
+# PHONE_NUMBER_ID=
+
+# VERIFY_TOKEN=
+
+# OPENAI_API_KEY=
+# OPENAI_ASSISTANT_ID=
