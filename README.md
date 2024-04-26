@@ -29,4 +29,4 @@ python3 run.py
 
 5. Once both are running simultaneously, the chatbot is ready to be used used on Whatsapp. 
 
-# Disclaimer: The chatbot can only be run on the developers laptop, due to confidential API keys from OpenAI, and Whatsapp. However the chatbot will be deployed, and also a youtube walkthrough is available here: https://youtu.be/6E-gn_vgQJA
+Youtube walkthrough: https://youtu.be/6E-gn_vgQJA
